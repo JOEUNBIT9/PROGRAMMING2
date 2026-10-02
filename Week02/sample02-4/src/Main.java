@@ -17,7 +17,7 @@ public class Main {
         age = keyboard.nextInt();
         System.out.printf("%s님의 키는?(예 170.5):",name);
         height = keyboard.nextDouble();
-        System.out.printf("%s홍의 몸무게는(예58.3)?:",name);
+        System.out.printf("%s의 몸무게는(예58.3)?:",name);
         weight = keyboard.nextFloat();
 
         System.out.printf("\n %s님의 나이는 %d살 입니다\n",name,age);
